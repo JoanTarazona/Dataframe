@@ -1,0 +1,1001 @@
+perfil_consumidor;marca_auto;producto;precio;cantidad;marca;patron
+mecanico;Suzuki;CAMISAS;150;5;original;221
+mecanico;Acura;PISTONES;130;6;original;221
+mecanico;Mercedes-Benz;PINES DE PISTON;80;6;original;122
+mecanico;Audi;ANILLOS;180;6;original;221
+mecanico;Dodge;METAL DE BIELA;80;6;original;222
+mecanico;Cadillac;METAL DE BANCADA;100;5;original;222
+mecanico;Honda;METAL DE LEVAS;110;5;original;121
+mecanico;Lincoln;METAL COMPENSADOR;70;7;original;112
+mecanico;Mitsubishi;SEPARADOR;80;6;original;212
+mecanico;Toyota;BOCINAS DE BIELA;80;6;original;211
+mecanico;Mitsubishi;VALVULAS;80;6;original;212
+mecanico;Honda;GUIAS DE VALVULAS;70;5;original;112
+mecanico;Subaru;EMPAQUETADURAS;530;7;original;211
+mecanico;Saturn;CADENA I;280;5;original;212
+mecanico;GMC;CADENA II;230;5;original;211
+mecanico;Porsche;CADENA III;260;6;original;121
+mecanico;Chrysler;TEMPLADOR DE CADENA UNICO;180;5;original;222
+mecanico;Nissan;TEMPLADOR DE CADENA GRANDE ;210;6;original;221
+mecanico;Ford;TEMPLADOR DE CADENA CHICO;200;5;original;222
+mecanico;Chevrolet;GUIA DE CADENA I;80;5;original;121
+mecanico;Ford;GUIA DE CADENA II;90;5;original;112
+mecanico;Suzuki;GUIA DE CADENA III;100;7;original;122
+mecanico;Volkswagen;GUIA DE CADENA IV;110;7;original;111
+mecanico;Hyundai;PIÑON DE LEVAS;110;5;original;111
+mecanico;Kia;PIÑON DE CIGÜEÑAL;100;6;original;222
+mecanico;Nissan;PIÑON COMPESADOR I;120;6;original;212
+mecanico;GMC;PIÑON COMPESADOR II;115;6;original;111
+mecanico;Ford;KITS DE DISTRIBUCION;430;7;original;122
+mecanico;Pontiac;FAJA DE DISTRIBUCION;220;6;original;222
+mecanico;Ford;FAJA DE COMPENSADOR;200;5;original;221
+mecanico;Bentley;FAJA BOMBA DE INYECCION;210;6;original;121
+mecanico;Volvo;TEMPLADOR DE FAJA UNICO;180;7;original;222
+mecanico;Mercedes-Benz;TEMPLADOR DE FAJA GRANDE;200;6;original;112
+mecanico;Ford;TEMPLADOR DE FAJA CHICO;140;6;original;111
+mecanico;Mercedes-Benz;TEMPLADOR DE LA BOMBA DE INYECCION;200;6;original;112
+mecanico;Chevrolet;BOMBA DE AGUA;230;7;original;211
+mecanico;MINI;TERMOSTATO;130;7;original;111
+mecanico;Mazda;BOMBA DE ACEITE;280;6;original;121
+mecanico;Ford;ACCESORIO BOMBA DE ACEITE;200;6;original;212
+mecanico;Plymouth;BOMBA DE COMBUSTIBLE;310;6;original;121
+mecanico;Toyota;BUJIAS/PRECALENTADORES;130;5;original;122
+mecanico;Toyota;PLATINO;110;5;original;121
+mecanico;Toyota;CONDENSADOR;100;7;original;212
+mecanico;Lexus;BOBINAS;180;7;original;221
+mecanico;Pontiac;CABLES DE BUJIAS;160;5;original;212
+mecanico;Ford;TAPA DE DISTRIBUIDOR;80;7;original;112
+mecanico;Nissan;ROTOR DE DISTRIBUIDOR;100;7;original;222
+mecanico;Mitsubishi;AVANCE DE DISTRIBUIDOR;90;5;original;221
+mecanico;GMC;THERMO SWITCH;70;7;original;121
+mecanico;Mercedes-Benz;SWITCH PRESION;80;5;original;212
+mecanico;Nissan;INYECTORES;90;6;original;112
+mecanico;Nissan;TOBERAS;100;7;original;121
+mecanico;Dodge;CABEZAL;110;5;original;112
+mecanico;Toyota;BOMBA DE INYECCION;270;7;original;212
+mecanico;Oldsmobile;FILTRO AIRE;60;7;original;222
+mecanico;Mercedes-Benz;FILTRO ACEITE;60;5;original;122
+mecanico;Lotus;FILTRO COMBUSTIBLE;60;5;original;112
+mecanico;Dodge;KIT DE EMBRAGUE;270;3;original;211
+mecanico;Mercedes-Benz;PLATO C/DISCO;630;3;original;222
+mecanico;Buick;PLATO DE EMBRAGUE;330;4;original;122
+mecanico;Ford;DISCO DE EMBRAGUE;330;2;original;212
+mecanico;Dodge;COLLARIN;230;4;original;222
+mecanico;Chevrolet;CAMISAS;150;5;original;211
+mecanico;Land Rover;PISTONES;130;2;original;121
+mecanico;Chevrolet;PINES DE PISTON;80;5;original;211
+mecanico;Pontiac;ANILLOS;180;5;original;111
+mecanico;Nissan;METAL DE BIELA;80;4;original;212
+mecanico;Toyota;METAL DE BANCADA;100;5;original;111
+mecanico;Land Rover;METAL DE LEVAS;110;3;original;121
+mecanico;Lexus;METAL COMPENSADOR;70;5;original;221
+mecanico;Oldsmobile;SEPARADOR;80;4;original;212
+mecanico;Audi;BOCINAS DE BIELA;80;3;original;111
+mecanico;Scion;VALVULAS;80;2;original;221
+mecanico;Audi;GUIAS DE VALVULAS;70;4;original;222
+mecanico;Ford;EMPAQUETADURAS;530;3;original;112
+mecanico;Nissan;CADENA I;280;3;original;222
+mecanico;Toyota;CADENA II;230;5;original;222
+mecanico;Volkswagen;CADENA III;260;2;original;212
+mecanico;Toyota;TEMPLADOR DE CADENA UNICO;180;5;original;211
+mecanico;BMW;TEMPLADOR DE CADENA GRANDE ;210;2;original;112
+mecanico;Honda;TEMPLADOR DE CADENA CHICO;200;4;original;221
+mecanico;Nissan;GUIA DE CADENA I;80;4;original;111
+mecanico;Infiniti;GUIA DE CADENA II;90;2;original;121
+mecanico;Chevrolet;GUIA DE CADENA III;100;3;original;211
+mecanico;Ford;GUIA DE CADENA IV;110;4;original;221
+mecanico;Chevrolet;PIÑON DE LEVAS;110;4;original;121
+mecanico;Toyota;PIÑON DE CIGÜEÑAL;100;4;original;121
+mecanico;Cadillac;PIÑON COMPESADOR I;120;4;original;111
+mecanico;Ford;PIÑON COMPESADOR II;115;3;original;112
+mecanico;Ford;KITS DE DISTRIBUCION;430;4;original;122
+mecanico;Volvo;FAJA DE DISTRIBUCION;220;3;original;221
+mecanico;Pontiac;FAJA DE COMPENSADOR;200;2;original;212
+mecanico;Infiniti;FAJA BOMBA DE INYECCION;210;2;original;111
+mecanico;Geo;TEMPLADOR DE FAJA UNICO;180;3;original;211
+mecanico;Toyota;TEMPLADOR DE FAJA GRANDE;200;5;original;212
+mecanico;Chrysler;TEMPLADOR DE FAJA CHICO;140;4;original;122
+mecanico;Ford;TEMPLADOR DE LA BOMBA DE INYECCION;200;4;original;211
+mecanico;Ford;BOMBA DE AGUA;230;3;original;212
+mecanico;BMW;TERMOSTATO;130;5;original;112
+mecanico;Mitsubishi;BOMBA DE ACEITE;280;3;original;121
+mecanico;Dodge;ACCESORIO BOMBA DE ACEITE;200;5;original;211
+mecanico;Ford;BOMBA DE COMBUSTIBLE;310;4;original;121
+mecanico;Mitsubishi;BUJIAS/PRECALENTADORES;130;2;original;221
+mecanico;Buick;PLATINO;110;3;original;222
+mecanico;Mercury;CONDENSADOR;100;5;original;211
+mecanico;Lincoln;BOBINAS;180;4;original;221
+mecanico;Lincoln;CABLES DE BUJIAS;160;4;original;222
+mecanico;Scion;TAPA DE DISTRIBUIDOR;80;5;original;111
+mecanico;Oldsmobile;ROTOR DE DISTRIBUIDOR;100;2;original;222
+mecanico;Toyota;AVANCE DE DISTRIBUIDOR;90;2;original;122
+mecanico;Infiniti;THERMO SWITCH;70;3;original;221
+mecanico;Land Rover;SWITCH PRESION;80;2;original;112
+mecanico;Dodge;INYECTORES;90;3;original;221
+mecanico;Isuzu;TOBERAS;100;5;original;122
+mecanico;Acura;CABEZAL;110;4;original;111
+mecanico;Lexus;BOMBA DE INYECCION;270;5;original;121
+mecanico;GMC;FILTRO AIRE;60;5;original;222
+mecanico;Dodge;FILTRO ACEITE;60;5;original;212
+mecanico;Honda;FILTRO COMBUSTIBLE;60;3;original;112
+mecanico;Ferrari;KIT DE EMBRAGUE;270;5;original;222
+mecanico;Pontiac;PLATO C/DISCO;630;5;original;112
+mecanico;Chevrolet;PLATO DE EMBRAGUE;330;3;original;121
+mecanico;Smart;DISCO DE EMBRAGUE;330;3;original;211
+mecanico;Suzuki;COLLARIN;230;2;original;121
+mecanico;Mercury;CAMISAS;120;2;alternativo;221
+mecanico;Honda;PISTONES;100;5;alternativo;111
+mecanico;Mitsubishi;PINES DE PISTON;50;3;alternativo;121
+mecanico;Mercury;ANILLOS;150;3;alternativo;122
+mecanico;BMW;METAL DE BIELA;50;4;alternativo;222
+mecanico;Ford;METAL DE BANCADA;70;2;alternativo;212
+mecanico;Chevrolet;METAL DE LEVAS;80;5;alternativo;222
+mecanico;Audi;METAL COMPENSADOR;40;2;alternativo;222
+mecanico;Nissan;SEPARADOR;50;4;alternativo;121
+mecanico;Saturn;BOCINAS DE BIELA;50;2;alternativo;111
+mecanico;Mazda;VALVULAS;50;2;alternativo;222
+mecanico;Jaguar;GUIAS DE VALVULAS;40;5;alternativo;211
+mecanico;Subaru;EMPAQUETADURAS;500;5;alternativo;211
+mecanico;Chevrolet;CADENA I;250;5;alternativo;111
+mecanico;Toyota;CADENA II;200;4;alternativo;122
+mecanico;Chrysler;CADENA III;230;3;alternativo;122
+mecanico;Acura;TEMPLADOR DE CADENA UNICO;150;5;alternativo;111
+mecanico;Ford;TEMPLADOR DE CADENA GRANDE ;180;3;alternativo;112
+mecanico;GMC;TEMPLADOR DE CADENA CHICO;170;3;alternativo;211
+mecanico;Oldsmobile;GUIA DE CADENA I;50;2;alternativo;122
+mecanico;Mitsubishi;GUIA DE CADENA II;60;2;alternativo;122
+mecanico;Jaguar;GUIA DE CADENA III;70;3;alternativo;222
+mecanico;Chevrolet;GUIA DE CADENA IV;80;3;alternativo;212
+mecanico;GMC;PIÑON DE LEVAS;80;3;alternativo;212
+mecanico;Mitsubishi;PIÑON DE CIGÜEÑAL;70;5;alternativo;122
+mecanico;Chevrolet;PIÑON COMPESADOR I;90;4;alternativo;221
+mecanico;Ford;PIÑON COMPESADOR II;85;5;alternativo;221
+mecanico;Chevrolet;KITS DE DISTRIBUCION;400;4;alternativo;112
+mecanico;Geo;FAJA DE DISTRIBUCION;190;4;alternativo;111
+mecanico;Buick;FAJA DE COMPENSADOR;170;3;alternativo;111
+mecanico;Chevrolet;FAJA BOMBA DE INYECCION;180;4;alternativo;212
+mecanico;Chevrolet;TEMPLADOR DE FAJA UNICO;150;3;alternativo;122
+mecanico;Toyota;TEMPLADOR DE FAJA GRANDE;170;2;alternativo;122
+mecanico;Acura;TEMPLADOR DE FAJA CHICO;110;2;alternativo;111
+mecanico;Toyota;TEMPLADOR DE LA BOMBA DE INYECCION;170;4;alternativo;121
+mecanico;Audi;BOMBA DE AGUA;200;4;alternativo;211
+mecanico;Ford;TERMOSTATO;100;5;alternativo;221
+mecanico;Nissan;BOMBA DE ACEITE;250;5;alternativo;221
+mecanico;Dodge;ACCESORIO BOMBA DE ACEITE;170;3;alternativo;221
+mecanico;Acura;BOMBA DE COMBUSTIBLE;280;2;alternativo;112
+mecanico;Lincoln;BUJIAS/PRECALENTADORES;100;5;alternativo;211
+mecanico;Suzuki;PLATINO;80;4;alternativo;222
+mecanico;Saab;CONDENSADOR;70;2;alternativo;121
+mecanico;Audi;BOBINAS;150;4;alternativo;212
+mecanico;Dodge;CABLES DE BUJIAS;130;4;alternativo;111
+mecanico;Honda;TAPA DE DISTRIBUIDOR;50;2;alternativo;122
+mecanico;Lexus;ROTOR DE DISTRIBUIDOR;70;5;alternativo;221
+mecanico;Audi;AVANCE DE DISTRIBUIDOR;60;4;alternativo;112
+mecanico;Mercury;THERMO SWITCH;40;4;alternativo;111
+mecanico;Audi;SWITCH PRESION;50;3;alternativo;211
+mecanico;Mercury;INYECTORES;60;5;alternativo;211
+mecanico;Pontiac;TOBERAS;70;4;alternativo;211
+mecanico;Volkswagen;CABEZAL;80;5;alternativo;111
+mecanico;Audi;BOMBA DE INYECCION;240;2;alternativo;221
+mecanico;Hyundai;FILTRO AIRE;30;3;alternativo;221
+mecanico;Honda;FILTRO ACEITE;30;5;alternativo;212
+mecanico;Mercedes-Benz;FILTRO COMBUSTIBLE;30;2;alternativo;212
+mecanico;Pontiac;KIT DE EMBRAGUE;240;5;alternativo;121
+mecanico;BMW;PLATO C/DISCO;600;4;alternativo;221
+mecanico;BMW;PLATO DE EMBRAGUE;300;2;alternativo;222
+mecanico;Porsche;DISCO DE EMBRAGUE;300;3;alternativo;122
+mecanico;Volvo;COLLARIN;200;5;alternativo;122
+mecanico;Volkswagen;CAMISAS;120;4;alternativo;222
+mecanico;Infiniti;PISTONES;100;3;alternativo;212
+mecanico;GMC;PINES DE PISTON;50;5;alternativo;222
+mecanico;Volvo;ANILLOS;150;2;alternativo;112
+mecanico;GMC;METAL DE BIELA;50;2;alternativo;121
+mecanico;BMW;METAL DE BANCADA;70;2;alternativo;122
+mecanico;Oldsmobile;METAL DE LEVAS;80;5;alternativo;211
+mecanico;Lexus;METAL COMPENSADOR;40;3;alternativo;112
+mecanico;Plymouth;SEPARADOR;50;2;alternativo;222
+mecanico;Mitsubishi;BOCINAS DE BIELA;50;4;alternativo;211
+mecanico;Ford;VALVULAS;50;5;alternativo;211
+mecanico;Kia;GUIAS DE VALVULAS;40;3;alternativo;211
+mecanico;Toyota;EMPAQUETADURAS;500;2;alternativo;211
+mecanico;BMW;CADENA I;250;5;alternativo;211
+mecanico;GMC;CADENA II;200;3;alternativo;122
+mecanico;Mazda;CADENA III;230;2;alternativo;111
+mecanico;Ford;TEMPLADOR DE CADENA UNICO;150;5;alternativo;111
+mecanico;Saturn;TEMPLADOR DE CADENA GRANDE ;180;3;alternativo;222
+mecanico;Kia;TEMPLADOR DE CADENA CHICO;170;2;alternativo;112
+mecanico;Honda;GUIA DE CADENA I;50;2;alternativo;212
+mecanico;Ford;GUIA DE CADENA II;60;4;alternativo;212
+mecanico;Honda;GUIA DE CADENA III;70;4;alternativo;122
+mecanico;Audi;GUIA DE CADENA IV;80;4;alternativo;121
+mecanico;GMC;PIÑON DE LEVAS;80;2;alternativo;222
+mecanico;Buick;PIÑON DE CIGÜEÑAL;70;5;alternativo;111
+mecanico;Toyota;PIÑON COMPESADOR I;90;3;alternativo;121
+mecanico;Mitsubishi;PIÑON COMPESADOR II;85;5;alternativo;122
+mecanico;Audi;KITS DE DISTRIBUCION;400;4;alternativo;111
+mecanico;Chevrolet;FAJA DE DISTRIBUCION;190;3;alternativo;121
+mecanico;Infiniti;FAJA DE COMPENSADOR;170;3;alternativo;212
+mecanico;Nissan;FAJA BOMBA DE INYECCION;180;3;alternativo;111
+mecanico;Oldsmobile;TEMPLADOR DE FAJA UNICO;150;2;alternativo;121
+mecanico;Volkswagen;TEMPLADOR DE FAJA GRANDE;170;4;alternativo;122
+mecanico;Cadillac;TEMPLADOR DE FAJA CHICO;110;4;alternativo;221
+mecanico;Mitsubishi;TEMPLADOR DE LA BOMBA DE INYECCION;170;5;alternativo;211
+mecanico;Pontiac;BOMBA DE AGUA;200;5;alternativo;122
+mecanico;GMC;TERMOSTATO;100;4;alternativo;121
+mecanico;Honda;BOMBA DE ACEITE;250;4;alternativo;212
+mecanico;Ford;ACCESORIO BOMBA DE ACEITE;170;3;alternativo;111
+mecanico;Mazda;BOMBA DE COMBUSTIBLE;280;5;alternativo;212
+mecanico;Dodge;BUJIAS/PRECALENTADORES;100;5;alternativo;122
+mecanico;Audi;PLATINO;80;2;alternativo;121
+mecanico;Maybach;CONDENSADOR;70;5;alternativo;112
+mecanico;Dodge;BOBINAS;150;3;alternativo;221
+mecanico;Chevrolet;CABLES DE BUJIAS;130;5;alternativo;111
+mecanico;Chevrolet;TAPA DE DISTRIBUIDOR;50;3;alternativo;122
+mecanico;Jeep;ROTOR DE DISTRIBUIDOR;70;4;alternativo;112
+mecanico;Aston Martin;AVANCE DE DISTRIBUIDOR;60;2;alternativo;111
+mecanico;Chevrolet;THERMO SWITCH;40;4;alternativo;221
+mecanico;Lotus;SWITCH PRESION;50;2;alternativo;221
+mecanico;Lincoln;INYECTORES;60;5;alternativo;122
+mecanico;Acura;TOBERAS;70;2;alternativo;222
+mecanico;Chevrolet;CABEZAL;80;2;alternativo;221
+mecanico;Lincoln;BOMBA DE INYECCION;240;2;alternativo;112
+mecanico;Mitsubishi;FILTRO AIRE;30;4;alternativo;112
+mecanico;Mercedes-Benz;FILTRO ACEITE;30;5;alternativo;111
+mecanico;GMC;FILTRO COMBUSTIBLE;30;5;alternativo;111
+mecanico;Mazda;KIT DE EMBRAGUE;240;2;alternativo;212
+mecanico;Toyota;PLATO C/DISCO;600;3;alternativo;122
+mecanico;Volkswagen;PLATO DE EMBRAGUE;300;4;alternativo;112
+mecanico;Chevrolet;DISCO DE EMBRAGUE;300;2;alternativo;112
+mecanico;Rambler;COLLARIN;200;2;alternativo;222
+mecanico;Infiniti;CAMISAS;150;3;original;112
+mecanico;Kia;PISTONES;130;5;original;221
+mecanico;Mitsubishi;PINES DE PISTON;80;5;original;222
+mecanico;Honda;ANILLOS;180;2;original;222
+mecanico;Dodge;METAL DE BIELA;80;2;original;112
+mecanico;Toyota;METAL DE BANCADA;100;3;original;111
+mecanico;Ford;METAL DE LEVAS;110;2;original;222
+mecanico;Ford;METAL COMPENSADOR;70;4;original;212
+mecanico;Mazda;SEPARADOR;80;3;original;212
+mecanico;Dodge;BOCINAS DE BIELA;80;5;original;212
+mecanico;Pontiac;VALVULAS;80;4;original;212
+mecanico;Suzuki;GUIAS DE VALVULAS;70;2;original;121
+mecanico;Honda;EMPAQUETADURAS;530;4;original;212
+mecanico;Honda;CADENA I;280;2;original;212
+mecanico;Lexus;CADENA II;230;2;original;222
+mecanico;Chevrolet;CADENA III;260;2;original;112
+mecanico;Chevrolet;TEMPLADOR DE CADENA UNICO;180;3;original;112
+mecanico;Mercury;TEMPLADOR DE CADENA GRANDE ;210;4;original;212
+mecanico;Chevrolet;TEMPLADOR DE CADENA CHICO;200;2;original;211
+mecanico;Audi;GUIA DE CADENA I;80;2;original;112
+mecanico;Pontiac;GUIA DE CADENA II;90;5;original;221
+mecanico;Audi;GUIA DE CADENA III;100;5;original;211
+mecanico;Dodge;GUIA DE CADENA IV;110;4;original;211
+mecanico;Kia;PIÑON DE LEVAS;110;5;original;122
+mecanico;Honda;PIÑON DE CIGÜEÑAL;100;4;original;222
+mecanico;Eagle;PIÑON COMPESADOR I;120;5;original;122
+mecanico;Saturn;PIÑON COMPESADOR II;115;4;original;221
+mecanico;Chrysler;KITS DE DISTRIBUCION;430;5;original;112
+mecanico;Volkswagen;FAJA DE DISTRIBUCION;220;4;original;112
+mecanico;Plymouth;FAJA DE COMPENSADOR;200;5;original;112
+mecanico;Cadillac;FAJA BOMBA DE INYECCION;210;2;original;121
+mecanico;Mazda;TEMPLADOR DE FAJA UNICO;180;4;original;221
+mecanico;Chrysler;TEMPLADOR DE FAJA GRANDE;200;5;original;222
+mecanico;Volkswagen;TEMPLADOR DE FAJA CHICO;140;2;original;122
+mecanico;Chrysler;TEMPLADOR DE LA BOMBA DE INYECCION;200;5;original;221
+mecanico;Maserati;BOMBA DE AGUA;230;3;original;112
+mecanico;Dodge;TERMOSTATO;130;5;original;222
+mecanico;Chevrolet;BOMBA DE ACEITE;280;4;original;121
+mecanico;Aptera;ACCESORIO BOMBA DE ACEITE;200;3;original;211
+mecanico;Dodge;BOMBA DE COMBUSTIBLE;310;4;original;222
+mecanico;BMW;BUJIAS/PRECALENTADORES;130;4;original;122
+mecanico;Cadillac;PLATINO;110;5;original;211
+mecanico;GMC;CONDENSADOR;100;4;original;211
+mecanico;GMC;BOBINAS;180;5;original;121
+mecanico;Lotus;CABLES DE BUJIAS;160;3;original;221
+mecanico;Mercury;TAPA DE DISTRIBUIDOR;80;5;original;122
+mecanico;Plymouth;ROTOR DE DISTRIBUIDOR;100;5;original;121
+mecanico;Infiniti;AVANCE DE DISTRIBUIDOR;90;5;original;121
+mecanico;Buick;THERMO SWITCH;70;4;original;112
+mecanico;Mitsubishi;SWITCH PRESION;80;5;original;111
+mecanico;Buick;INYECTORES;90;5;original;212
+mecanico;Mitsubishi;TOBERAS;100;2;original;221
+mecanico;Lamborghini;CABEZAL;110;2;original;121
+mecanico;Honda;BOMBA DE INYECCION;270;4;original;211
+mecanico;Audi;FILTRO AIRE;60;3;original;221
+mecanico;Lexus;FILTRO ACEITE;60;2;original;112
+mecanico;Saturn;FILTRO COMBUSTIBLE;60;5;original;122
+mecanico;Mercury;KIT DE EMBRAGUE;270;4;original;212
+mecanico;Dodge;PLATO C/DISCO;630;4;original;212
+mecanico;Lincoln;PLATO DE EMBRAGUE;330;2;original;112
+mecanico;Chevrolet;DISCO DE EMBRAGUE;330;4;original;222
+mecanico;Porsche;COLLARIN;230;2;original;222
+mecanico;Dodge;CAMISAS;150;5;original;211
+mecanico;Nissan;PISTONES;130;3;original;212
+mecanico;Lincoln;PINES DE PISTON;80;4;original;122
+mecanico;Mercury;ANILLOS;180;2;original;112
+mecanico;GMC;METAL DE BIELA;80;3;original;222
+mecanico;Land Rover;METAL DE BANCADA;100;5;original;222
+mecanico;Daewoo;METAL DE LEVAS;110;2;original;122
+mecanico;Maserati;METAL COMPENSADOR;70;4;original;211
+mecanico;Pontiac;SEPARADOR;80;5;original;222
+mecanico;Toyota;BOCINAS DE BIELA;80;2;original;212
+mecanico;Nissan;VALVULAS;80;5;original;122
+mecanico;Infiniti;GUIAS DE VALVULAS;70;3;original;211
+mecanico;Honda;EMPAQUETADURAS;530;5;original;222
+mecanico;Ford;CADENA I;280;5;original;212
+mecanico;Nissan;CADENA II;230;5;original;122
+mecanico;Mercedes-Benz;CADENA III;260;3;original;111
+mecanico;Chevrolet;TEMPLADOR DE CADENA UNICO;180;2;original;121
+mecanico;Chevrolet;TEMPLADOR DE CADENA GRANDE ;210;3;original;211
+mecanico;MINI;TEMPLADOR DE CADENA CHICO;200;4;original;121
+mecanico;Mitsubishi;GUIA DE CADENA I;80;3;original;221
+mecanico;Mitsubishi;GUIA DE CADENA II;90;3;original;221
+mecanico;GMC;GUIA DE CADENA III;100;2;original;122
+mecanico;Dodge;GUIA DE CADENA IV;110;2;original;222
+mecanico;Lincoln;PIÑON DE LEVAS;110;2;original;122
+mecanico;Dodge;PIÑON DE CIGÜEÑAL;100;3;original;121
+mecanico;Cadillac;PIÑON COMPESADOR I;120;3;original;112
+mecanico;Kia;PIÑON COMPESADOR II;115;4;original;211
+mecanico;Dodge;KITS DE DISTRIBUCION;430;3;original;121
+mecanico;Kia;FAJA DE DISTRIBUCION;220;5;original;112
+mecanico;Cadillac;FAJA DE COMPENSADOR;200;5;original;122
+mecanico;Toyota;FAJA BOMBA DE INYECCION;210;2;original;121
+mecanico;Buick;TEMPLADOR DE FAJA UNICO;180;5;original;211
+mecanico;Suzuki;TEMPLADOR DE FAJA GRANDE;200;4;original;111
+mecanico;Toyota;TEMPLADOR DE FAJA CHICO;140;5;original;112
+mecanico;Ford;TEMPLADOR DE LA BOMBA DE INYECCION;200;3;original;222
+mecanico;Audi;BOMBA DE AGUA;230;5;original;112
+mecanico;Cadillac;TERMOSTATO;130;4;original;221
+mecanico;Chevrolet;BOMBA DE ACEITE;280;3;original;111
+mecanico;Toyota;ACCESORIO BOMBA DE ACEITE;200;2;original;221
+mecanico;Isuzu;BOMBA DE COMBUSTIBLE;310;5;original;222
+mecanico;Volkswagen;BUJIAS/PRECALENTADORES;130;2;original;111
+mecanico;Maserati;PLATINO;110;5;original;121
+mecanico;Dodge;CONDENSADOR;100;3;original;211
+mecanico;Ford;BOBINAS;180;5;original;122
+mecanico;Audi;CABLES DE BUJIAS;160;5;original;222
+mecanico;Ford;TAPA DE DISTRIBUIDOR;80;3;original;112
+mecanico;Isuzu;ROTOR DE DISTRIBUIDOR;100;5;original;222
+mecanico;Toyota;AVANCE DE DISTRIBUIDOR;90;2;original;212
+mecanico;Mercedes-Benz;THERMO SWITCH;70;2;original;121
+mecanico;Mitsubishi;SWITCH PRESION;80;4;original;211
+mecanico;Mercedes-Benz;INYECTORES;90;4;original;221
+mecanico;Isuzu;TOBERAS;100;5;original;222
+mecanico;Mercedes-Benz;CABEZAL;110;4;original;212
+mecanico;Porsche;BOMBA DE INYECCION;270;3;original;112
+mecanico;Plymouth;FILTRO AIRE;60;4;original;212
+mecanico;Ford;FILTRO ACEITE;60;4;original;111
+mecanico;Scion;FILTRO COMBUSTIBLE;60;5;original;212
+mecanico;Buick;KIT DE EMBRAGUE;270;5;original;212
+mecanico;Chevrolet;PLATO C/DISCO;630;2;original;112
+mecanico;Subaru;PLATO DE EMBRAGUE;330;5;original;222
+mecanico;Pontiac;DISCO DE EMBRAGUE;330;2;original;122
+mecanico;Volkswagen;COLLARIN;230;2;original;221
+mecanico;Subaru;CAMISAS;120;3;alternativo;122
+mecanico;Isuzu;PISTONES;100;2;alternativo;111
+mecanico;Toyota;PINES DE PISTON;50;5;alternativo;112
+mecanico;Lexus;ANILLOS;150;2;alternativo;212
+mecanico;Ford;METAL DE BIELA;50;2;alternativo;222
+mecanico;Mitsubishi;METAL DE BANCADA;70;2;alternativo;212
+mecanico;Dodge;METAL DE LEVAS;80;5;alternativo;221
+mecanico;Buick;METAL COMPENSADOR;40;4;alternativo;212
+mecanico;Chevrolet;SEPARADOR;50;4;alternativo;111
+mecanico;GMC;BOCINAS DE BIELA;50;4;alternativo;221
+mecanico;Suzuki;VALVULAS;50;5;alternativo;111
+mecanico;Bentley;GUIAS DE VALVULAS;40;5;alternativo;111
+mecanico;Lexus;EMPAQUETADURAS;500;2;alternativo;221
+mecanico;Ford;CADENA I;250;4;alternativo;212
+mecanico;Audi;CADENA II;200;4;alternativo;111
+mecanico;Lexus;CADENA III;230;5;alternativo;112
+mecanico;Chevrolet;TEMPLADOR DE CADENA UNICO;150;5;alternativo;212
+mecanico;Jeep;TEMPLADOR DE CADENA GRANDE ;180;4;alternativo;212
+mecanico;Acura;TEMPLADOR DE CADENA CHICO;170;4;alternativo;112
+mecanico;Volkswagen;GUIA DE CADENA I;50;2;alternativo;122
+mecanico;Acura;GUIA DE CADENA II;60;3;alternativo;211
+mecanico;Suzuki;GUIA DE CADENA III;70;2;alternativo;221
+mecanico;Volkswagen;GUIA DE CADENA IV;80;4;alternativo;112
+mecanico;Lexus;PIÑON DE LEVAS;80;3;alternativo;112
+mecanico;Lotus;PIÑON DE CIGÜEÑAL;70;2;alternativo;122
+mecanico;Buick;PIÑON COMPESADOR I;90;3;alternativo;122
+mecanico;Chevrolet;PIÑON COMPESADOR II;85;2;alternativo;211
+mecanico;Ford;KITS DE DISTRIBUCION;400;5;alternativo;221
+mecanico;Lincoln;FAJA DE DISTRIBUCION;190;4;alternativo;211
+mecanico;GMC;FAJA DE COMPENSADOR;170;5;alternativo;212
+mecanico;Lexus;FAJA BOMBA DE INYECCION;180;5;alternativo;122
+mecanico;Mitsubishi;TEMPLADOR DE FAJA UNICO;150;3;alternativo;221
+mecanico;Jeep;TEMPLADOR DE FAJA GRANDE;170;5;alternativo;212
+tecnicentro;GMC;TEMPLADOR DE FAJA CHICO;110;2;alternativo;221
+tecnicentro;Lotus;TEMPLADOR DE LA BOMBA DE INYECCION;170;3;alternativo;112
+tecnicentro;Lotus;BOMBA DE AGUA;200;4;alternativo;122
+tecnicentro;Audi;TERMOSTATO;100;3;alternativo;221
+tecnicentro;GMC;BOMBA DE ACEITE;250;5;alternativo;221
+tecnicentro;BMW;ACCESORIO BOMBA DE ACEITE;170;3;alternativo;121
+tecnicentro;Audi;BOMBA DE COMBUSTIBLE;280;4;alternativo;221
+tecnicentro;Chrysler;BUJIAS/PRECALENTADORES;100;5;alternativo;221
+tecnicentro;GMC;PLATINO;80;2;alternativo;121
+tecnicentro;Mitsubishi;CONDENSADOR;70;2;alternativo;111
+tecnicentro;Lamborghini;BOBINAS;150;4;alternativo;111
+tecnicentro;Mercedes-Benz;CABLES DE BUJIAS;130;3;alternativo;211
+tecnicentro;Honda;TAPA DE DISTRIBUIDOR;50;4;alternativo;222
+tecnicentro;Chevrolet;ROTOR DE DISTRIBUIDOR;70;3;alternativo;122
+tecnicentro;Lamborghini;AVANCE DE DISTRIBUIDOR;60;5;alternativo;112
+tecnicentro;Nissan;THERMO SWITCH;40;3;alternativo;211
+tecnicentro;Ford;SWITCH PRESION;50;5;alternativo;111
+tecnicentro;Porsche;INYECTORES;60;3;alternativo;121
+tecnicentro;Buick;TOBERAS;70;3;alternativo;111
+tecnicentro;Toyota;CABEZAL;80;4;alternativo;211
+tecnicentro;Mitsubishi;BOMBA DE INYECCION;240;5;alternativo;221
+tecnicentro;GMC;FILTRO AIRE;30;3;alternativo;111
+tecnicentro;Lexus;FILTRO ACEITE;30;3;alternativo;112
+tecnicentro;Toyota;FILTRO COMBUSTIBLE;30;4;alternativo;122
+tecnicentro;Mitsubishi;KIT DE EMBRAGUE;240;4;alternativo;111
+tecnicentro;Mazda;PLATO C/DISCO;600;2;alternativo;212
+tecnicentro;Pontiac;PLATO DE EMBRAGUE;300;2;alternativo;112
+tecnicentro;Bentley;DISCO DE EMBRAGUE;300;3;alternativo;121
+tecnicentro;Volkswagen;COLLARIN;200;2;alternativo;121
+tecnicentro;Porsche;CAMISAS;120;2;alternativo;211
+tecnicentro;Nissan;PISTONES;100;2;alternativo;211
+tecnicentro;Dodge;PINES DE PISTON;50;3;alternativo;211
+tecnicentro;Buick;ANILLOS;150;3;alternativo;211
+tecnicentro;Ford;METAL DE BIELA;50;2;alternativo;211
+tecnicentro;Buick;METAL DE BANCADA;70;3;alternativo;222
+tecnicentro;Saab;METAL DE LEVAS;80;2;alternativo;212
+tecnicentro;Buick;METAL COMPENSADOR;40;1;alternativo;112
+tecnicentro;Pontiac;SEPARADOR;50;1;alternativo;121
+tecnicentro;Mazda;BOCINAS DE BIELA;50;1;alternativo;121
+tecnicentro;BMW;VALVULAS;50;3;alternativo;122
+tecnicentro;Dodge;GUIAS DE VALVULAS;40;3;alternativo;222
+tecnicentro;Toyota;EMPAQUETADURAS;500;3;alternativo;122
+tecnicentro;Subaru;CADENA I;250;2;alternativo;222
+tecnicentro;Lexus;CADENA II;200;2;alternativo;121
+tecnicentro;Plymouth;CADENA III;230;1;alternativo;212
+tecnicentro;Audi;TEMPLADOR DE CADENA UNICO;150;1;alternativo;112
+tecnicentro;Saab;TEMPLADOR DE CADENA GRANDE ;180;2;alternativo;112
+tecnicentro;Buick;TEMPLADOR DE CADENA CHICO;170;2;alternativo;222
+tecnicentro;Volkswagen;GUIA DE CADENA I;50;3;alternativo;222
+tecnicentro;Nissan;GUIA DE CADENA II;60;2;alternativo;112
+tecnicentro;Toyota;GUIA DE CADENA III;70;1;alternativo;221
+tecnicentro;Toyota;GUIA DE CADENA IV;80;3;alternativo;211
+tecnicentro;Volvo;PIÑON DE LEVAS;80;1;alternativo;211
+tecnicentro;Acura;PIÑON DE CIGÜEÑAL;70;1;alternativo;122
+tecnicentro;Chevrolet;PIÑON COMPESADOR I;90;1;alternativo;211
+tecnicentro;MINI;PIÑON COMPESADOR II;85;1;alternativo;111
+tecnicentro;Volvo;KITS DE DISTRIBUCION;400;2;alternativo;221
+tecnicentro;Infiniti;FAJA DE DISTRIBUCION;190;1;alternativo;221
+tecnicentro;Toyota;FAJA DE COMPENSADOR;170;1;alternativo;112
+tecnicentro;Hyundai;FAJA BOMBA DE INYECCION;180;3;alternativo;122
+tecnicentro;Oldsmobile;TEMPLADOR DE FAJA UNICO;150;3;alternativo;211
+tecnicentro;Honda;TEMPLADOR DE FAJA GRANDE;170;3;alternativo;221
+tecnicentro;Acura;TEMPLADOR DE FAJA CHICO;110;2;alternativo;121
+tecnicentro;Chevrolet;TEMPLADOR DE LA BOMBA DE INYECCION;170;3;alternativo;122
+tecnicentro;MINI;BOMBA DE AGUA;200;3;alternativo;111
+tecnicentro;Audi;TERMOSTATO;100;2;alternativo;112
+tecnicentro;Nissan;BOMBA DE ACEITE;250;1;alternativo;121
+tecnicentro;Ford;ACCESORIO BOMBA DE ACEITE;170;3;alternativo;121
+tecnicentro;Hyundai;BOMBA DE COMBUSTIBLE;280;2;alternativo;111
+tecnicentro;Pontiac;BUJIAS/PRECALENTADORES;100;1;alternativo;121
+tecnicentro;Pontiac;PLATINO;80;3;alternativo;112
+tecnicentro;Cadillac;CONDENSADOR;70;2;alternativo;112
+tecnicentro;Dodge;BOBINAS;150;2;alternativo;222
+tecnicentro;Honda;CABLES DE BUJIAS;130;2;alternativo;122
+tecnicentro;Chevrolet;TAPA DE DISTRIBUIDOR;50;1;alternativo;122
+tecnicentro;Maserati;ROTOR DE DISTRIBUIDOR;70;2;alternativo;212
+tecnicentro;Acura;AVANCE DE DISTRIBUIDOR;60;3;alternativo;112
+tecnicentro;Infiniti;THERMO SWITCH;40;2;alternativo;121
+tecnicentro;Mercedes-Benz;SWITCH PRESION;50;1;alternativo;221
+tecnicentro;Hummer;INYECTORES;60;3;alternativo;212
+tecnicentro;Chrysler;TOBERAS;70;2;alternativo;211
+tecnicentro;Chevrolet;CABEZAL;80;3;alternativo;122
+tecnicentro;Ford;BOMBA DE INYECCION;240;3;alternativo;221
+tecnicentro;Mazda;FILTRO AIRE;30;2;alternativo;112
+tecnicentro;Acura;FILTRO ACEITE;30;1;alternativo;111
+tecnicentro;BMW;FILTRO COMBUSTIBLE;30;1;alternativo;111
+tecnicentro;Ford;KIT DE EMBRAGUE;240;1;alternativo;211
+tecnicentro;Ford;PLATO C/DISCO;600;1;alternativo;122
+tecnicentro;Chevrolet;PLATO DE EMBRAGUE;300;1;alternativo;112
+tecnicentro;GMC;DISCO DE EMBRAGUE;300;1;alternativo;121
+tecnicentro;Isuzu;COLLARIN;200;1;alternativo;121
+tecnicentro;Suzuki;CAMISAS;150;3;original;211
+tecnicentro;Maserati;PISTONES;130;3;original;112
+tecnicentro;Honda;PINES DE PISTON;80;3;original;211
+tecnicentro;Isuzu;ANILLOS;180;3;original;111
+tecnicentro;Toyota;METAL DE BIELA;80;1;original;111
+tecnicentro;Geo;METAL DE BANCADA;100;1;original;122
+tecnicentro;GMC;METAL DE LEVAS;110;1;original;121
+tecnicentro;Cadillac;METAL COMPENSADOR;70;1;original;122
+tecnicentro;Lincoln;SEPARADOR;80;1;original;222
+tecnicentro;Mercedes-Benz;BOCINAS DE BIELA;80;2;original;122
+tecnicentro;Mercury;VALVULAS;80;2;original;121
+tecnicentro;Volvo;GUIAS DE VALVULAS;70;1;original;121
+tecnicentro;Citroen;EMPAQUETADURAS;530;3;original;222
+tecnicentro;Ford;CADENA I;280;1;original;111
+tecnicentro;Kia;CADENA II;230;3;original;212
+tecnicentro;Volkswagen;CADENA III;260;3;original;212
+tecnicentro;Mazda;TEMPLADOR DE CADENA UNICO;180;3;original;121
+tecnicentro;Acura;TEMPLADOR DE CADENA GRANDE ;210;1;original;211
+tecnicentro;Chevrolet;TEMPLADOR DE CADENA CHICO;200;3;original;221
+tecnicentro;Nissan;GUIA DE CADENA I;80;2;original;112
+tecnicentro;Mitsubishi;GUIA DE CADENA II;90;1;original;122
+tecnicentro;Chrysler;GUIA DE CADENA III;100;2;original;121
+tecnicentro;Mercury;GUIA DE CADENA IV;110;3;original;112
+tecnicentro;Acura;PIÑON DE LEVAS;110;2;original;211
+tecnicentro;Pontiac;PIÑON DE CIGÜEÑAL;100;3;original;122
+tecnicentro;Mercury;PIÑON COMPESADOR I;120;3;original;222
+tecnicentro;Lincoln;PIÑON COMPESADOR II;115;1;original;212
+tecnicentro;Mercedes-Benz;KITS DE DISTRIBUCION;430;2;original;211
+tecnicentro;Chrysler;FAJA DE DISTRIBUCION;220;2;original;111
+tecnicentro;Shelby;FAJA DE COMPENSADOR;200;1;original;112
+tecnicentro;Toyota;FAJA BOMBA DE INYECCION;210;3;original;222
+tecnicentro;Mercury;TEMPLADOR DE FAJA UNICO;180;1;original;122
+tecnicentro;Cadillac;TEMPLADOR DE FAJA GRANDE;200;2;original;221
+tecnicentro;Hyundai;TEMPLADOR DE FAJA CHICO;140;1;original;212
+tecnicentro;Morgan;TEMPLADOR DE LA BOMBA DE INYECCION;200;3;original;212
+tecnicentro;Infiniti;BOMBA DE AGUA;230;1;original;122
+tecnicentro;Ford;TERMOSTATO;130;2;original;122
+tecnicentro;Plymouth;BOMBA DE ACEITE;280;2;original;211
+tecnicentro;BMW;ACCESORIO BOMBA DE ACEITE;200;1;original;221
+tecnicentro;Ford;BOMBA DE COMBUSTIBLE;310;3;original;221
+tecnicentro;Toyota;BUJIAS/PRECALENTADORES;130;3;original;212
+tecnicentro;Subaru;PLATINO;110;3;original;211
+tecnicentro;Maserati;CONDENSADOR;100;3;original;211
+tecnicentro;Dodge;BOBINAS;180;3;original;211
+tecnicentro;Mazda;CABLES DE BUJIAS;160;1;original;122
+tecnicentro;GMC;TAPA DE DISTRIBUIDOR;80;2;original;222
+tecnicentro;Lincoln;ROTOR DE DISTRIBUIDOR;100;3;original;121
+tecnicentro;Mercedes-Benz;AVANCE DE DISTRIBUIDOR;90;2;original;121
+tecnicentro;Dodge;THERMO SWITCH;70;2;original;222
+tecnicentro;Nissan;SWITCH PRESION;80;2;original;121
+tecnicentro;Isuzu;INYECTORES;90;2;original;111
+tecnicentro;Oldsmobile;TOBERAS;100;3;original;212
+tecnicentro;Lincoln;CABEZAL;110;1;original;112
+tecnicentro;Ford;BOMBA DE INYECCION;270;3;original;211
+tecnicentro;Ford;FILTRO AIRE;60;3;original;222
+tecnicentro;Hyundai;FILTRO ACEITE;60;1;original;211
+tecnicentro;Chevrolet;FILTRO COMBUSTIBLE;60;2;original;112
+tecnicentro;GMC;KIT DE EMBRAGUE;270;2;original;222
+tecnicentro;GMC;PLATO C/DISCO;630;3;original;211
+tecnicentro;Toyota;PLATO DE EMBRAGUE;330;3;original;211
+tecnicentro;Mazda;DISCO DE EMBRAGUE;330;1;original;121
+tecnicentro;Chrysler;COLLARIN;230;3;original;221
+tecnicentro;Ford;CAMISAS;150;3;original;212
+tecnicentro;Audi;PISTONES;130;2;original;211
+tecnicentro;Acura;PINES DE PISTON;80;1;original;111
+tecnicentro;Ford;ANILLOS;180;2;original;122
+tecnicentro;Infiniti;METAL DE BIELA;80;3;original;211
+tecnicentro;Lexus;METAL DE BANCADA;100;3;original;111
+tecnicentro;Suzuki;METAL DE LEVAS;110;1;original;122
+tecnicentro;Lincoln;METAL COMPENSADOR;70;1;original;122
+tecnicentro;Chrysler;SEPARADOR;80;2;original;111
+tecnicentro;Volvo;BOCINAS DE BIELA;80;3;original;212
+tecnicentro;BMW;VALVULAS;80;2;original;111
+tecnicentro;Saturn;GUIAS DE VALVULAS;70;2;original;222
+tecnicentro;BMW;EMPAQUETADURAS;530;3;original;212
+tecnicentro;Isuzu;CADENA I;280;3;original;212
+tecnicentro;Hyundai;CADENA II;230;3;original;112
+tecnicentro;Toyota;CADENA III;260;2;original;112
+tecnicentro;Kia;TEMPLADOR DE CADENA UNICO;180;2;original;222
+tecnicentro;Dodge;TEMPLADOR DE CADENA GRANDE ;210;1;original;121
+tecnicentro;Mercedes-Benz;TEMPLADOR DE CADENA CHICO;200;1;original;212
+tecnicentro;Bentley;GUIA DE CADENA I;80;3;original;122
+tecnicentro;Scion;GUIA DE CADENA II;90;2;original;112
+tecnicentro;Mazda;GUIA DE CADENA III;100;2;original;211
+tecnicentro;Subaru;GUIA DE CADENA IV;110;2;original;112
+tecnicentro;Dodge;PIÑON DE LEVAS;110;3;original;211
+tecnicentro;Subaru;PIÑON DE CIGÜEÑAL;100;2;original;121
+tecnicentro;Mitsubishi;PIÑON COMPESADOR I;120;2;original;111
+tecnicentro;Volkswagen;PIÑON COMPESADOR II;115;2;original;121
+tecnicentro;Cadillac;KITS DE DISTRIBUCION;430;1;original;121
+tecnicentro;Mazda;FAJA DE DISTRIBUCION;220;2;original;122
+tecnicentro;GMC;FAJA DE COMPENSADOR;200;1;original;121
+tecnicentro;GMC;FAJA BOMBA DE INYECCION;210;3;original;121
+tecnicentro;Toyota;TEMPLADOR DE FAJA UNICO;180;3;original;211
+tecnicentro;Lincoln;TEMPLADOR DE FAJA GRANDE;200;1;original;221
+tecnicentro;Kia;TEMPLADOR DE FAJA CHICO;140;1;original;112
+tecnicentro;Pontiac;TEMPLADOR DE LA BOMBA DE INYECCION;200;3;original;221
+tecnicentro;Chevrolet;BOMBA DE AGUA;230;2;original;222
+tecnicentro;BMW;TERMOSTATO;130;1;original;211
+tecnicentro;Cadillac;BOMBA DE ACEITE;280;1;original;222
+tecnicentro;Oldsmobile;ACCESORIO BOMBA DE ACEITE;200;2;original;121
+tecnicentro;Pontiac;BOMBA DE COMBUSTIBLE;310;1;original;221
+tecnicentro;Chrysler;BUJIAS/PRECALENTADORES;130;1;original;112
+tecnicentro;MINI;PLATINO;110;1;original;122
+tecnicentro;Jeep;CONDENSADOR;100;2;original;221
+tecnicentro;Mercedes-Benz;BOBINAS;180;3;original;122
+tecnicentro;Hyundai;CABLES DE BUJIAS;160;2;original;212
+tecnicentro;Volvo;TAPA DE DISTRIBUIDOR;80;1;original;211
+tecnicentro;Kia;ROTOR DE DISTRIBUIDOR;100;2;original;212
+tecnicentro;Cadillac;AVANCE DE DISTRIBUIDOR;90;2;original;112
+tecnicentro;Chevrolet;THERMO SWITCH;70;2;original;111
+tecnicentro;Infiniti;SWITCH PRESION;80;3;original;112
+tecnicentro;Mercedes-Benz;INYECTORES;90;2;original;211
+tecnicentro;Mazda;TOBERAS;100;3;original;211
+tecnicentro;Mercury;CABEZAL;110;2;original;122
+tecnicentro;Lexus;BOMBA DE INYECCION;270;3;original;111
+tecnicentro;Audi;FILTRO AIRE;60;3;original;111
+tecnicentro;Honda;FILTRO ACEITE;60;3;original;122
+tecnicentro;Panoz;FILTRO COMBUSTIBLE;60;1;original;211
+tecnicentro;Holden;KIT DE EMBRAGUE;270;3;original;122
+tecnicentro;Mercedes-Benz;PLATO C/DISCO;630;3;original;212
+tecnicentro;Chevrolet;PLATO DE EMBRAGUE;330;1;original;211
+tecnicentro;Honda;DISCO DE EMBRAGUE;330;2;original;212
+tecnicentro;Oldsmobile;COLLARIN;230;3;original;211
+tecnicentro;Mazda;CAMISAS;120;1;alternativo;222
+tecnicentro;Lexus;PISTONES;100;1;alternativo;112
+tecnicentro;Volvo;PINES DE PISTON;50;3;alternativo;121
+tecnicentro;Mazda;ANILLOS;150;3;alternativo;121
+tecnicentro;Ford;METAL DE BIELA;50;1;alternativo;111
+tecnicentro;Chrysler;METAL DE BANCADA;70;3;alternativo;121
+tecnicentro;Mazda;METAL DE LEVAS;80;3;alternativo;221
+tecnicentro;Audi;METAL COMPENSADOR;40;3;alternativo;112
+tecnicentro;Mercury;SEPARADOR;50;3;alternativo;222
+tecnicentro;Chevrolet;BOCINAS DE BIELA;50;3;alternativo;122
+tecnicentro;Volkswagen;VALVULAS;50;2;alternativo;221
+cliente_necesidad;Hyundai;GUIAS DE VALVULAS;40;2;alternativo;122
+cliente_necesidad;Dodge;EMPAQUETADURAS;500;2;alternativo;112
+cliente_necesidad;Ford;CADENA I;250;1;alternativo;212
+cliente_necesidad;Fairthorpe;CADENA II;200;1;alternativo;112
+cliente_necesidad;Volkswagen;CADENA III;230;1;alternativo;121
+cliente_necesidad;Mercury;TEMPLADOR DE CADENA UNICO;150;1;alternativo;122
+cliente_necesidad;Dodge;TEMPLADOR DE CADENA GRANDE ;180;1;alternativo;121
+cliente_necesidad;Mazda;TEMPLADOR DE CADENA CHICO;170;1;alternativo;221
+cliente_necesidad;Chevrolet;GUIA DE CADENA I;80;1;original;222
+cliente_necesidad;Chrysler;GUIA DE CADENA II;90;3;original;212
+cliente_necesidad;Mitsubishi;GUIA DE CADENA III;100;3;original;222
+cliente_necesidad;Volvo;GUIA DE CADENA IV;110;1;original;112
+cliente_necesidad;Honda;PIÑON DE LEVAS;110;1;original;121
+cliente_necesidad;Buick;PIÑON DE CIGÜEÑAL;100;2;original;111
+cliente_necesidad;Subaru;PIÑON COMPESADOR I;120;3;original;122
+cliente_necesidad;Oldsmobile;PIÑON COMPESADOR II;115;1;original;222
+cliente_necesidad;Subaru;KITS DE DISTRIBUCION;430;3;original;122
+cliente_necesidad;Lexus;FAJA DE DISTRIBUCION;220;3;original;122
+cliente_necesidad;Toyota;FAJA DE COMPENSADOR;200;2;original;211
+cliente_necesidad;Jeep;FAJA BOMBA DE INYECCION;210;3;original;112
+cliente_necesidad;Ford;TEMPLADOR DE FAJA UNICO;180;2;original;112
+cliente_necesidad;Chevrolet;TEMPLADOR DE FAJA GRANDE;200;1;original;111
+cliente_necesidad;Chevrolet;TEMPLADOR DE FAJA CHICO;140;2;original;122
+cliente_necesidad;Dodge;TEMPLADOR DE LA BOMBA DE INYECCION;200;1;original;211
+cliente_necesidad;Volkswagen;BOMBA DE AGUA;230;3;original;122
+cliente_necesidad;Cadillac;TERMOSTATO;130;3;original;122
+cliente_necesidad;Toyota;BOMBA DE ACEITE;280;3;original;121
+cliente_necesidad;Audi;ACCESORIO BOMBA DE ACEITE;200;3;original;221
+cliente_necesidad;Chevrolet;BOMBA DE COMBUSTIBLE;310;1;original;221
+cliente_necesidad;Dodge;BUJIAS/PRECALENTADORES;130;3;original;122
+cliente_necesidad;Buick;PLATINO;110;1;original;221
+cliente_necesidad;Plymouth;CONDENSADOR;100;2;original;221
+cliente_necesidad;Chevrolet;BOBINAS;180;1;original;222
+cliente_necesidad;Scion;CABLES DE BUJIAS;160;1;original;221
+cliente_necesidad;Audi;TAPA DE DISTRIBUIDOR;80;1;original;112
+cliente_necesidad;Ford;ROTOR DE DISTRIBUIDOR;100;1;original;222
+cliente_necesidad;Kia;AVANCE DE DISTRIBUIDOR;90;1;original;122
+cliente_necesidad;Dodge;THERMO SWITCH;70;2;original;222
+cliente_necesidad;Pontiac;SWITCH PRESION;80;1;original;211
+cliente_necesidad;Mitsubishi;INYECTORES;90;1;original;111
+cliente_necesidad;Spyker;TOBERAS;100;1;original;112
+cliente_necesidad;Mazda;CABEZAL;110;2;original;211
+cliente_necesidad;Mercury;BOMBA DE INYECCION;270;1;original;212
+cliente_necesidad;Ford;FILTRO AIRE;60;1;original;221
+cliente_necesidad;Toyota;FILTRO ACEITE;60;2;original;222
+cliente_necesidad;Buick;FILTRO COMBUSTIBLE;60;2;original;112
+cliente_necesidad;Honda;KIT DE EMBRAGUE;270;3;original;222
+cliente_necesidad;Dodge;PLATO C/DISCO;630;2;original;221
+cliente_necesidad;Chevrolet;PLATO DE EMBRAGUE;330;1;original;221
+cliente_necesidad;Lexus;DISCO DE EMBRAGUE;330;1;original;221
+cliente_necesidad;Plymouth;COLLARIN;230;3;original;112
+cliente_necesidad;Mitsubishi;CAMISAS;150;3;original;111
+cliente_necesidad;Honda;PISTONES;130;1;original;221
+cliente_necesidad;Maserati;PINES DE PISTON;80;1;original;111
+cliente_necesidad;Oldsmobile;ANILLOS;180;2;original;121
+cliente_necesidad;Subaru;METAL DE BIELA;80;2;original;121
+cliente_necesidad;Mitsubishi;METAL DE BANCADA;100;1;original;221
+cliente_necesidad;Mazda;METAL DE LEVAS;110;3;original;211
+cliente_necesidad;Audi;METAL COMPENSADOR;70;3;original;111
+cliente_necesidad;Ford;SEPARADOR;80;1;original;212
+cliente_necesidad;Volvo;BOCINAS DE BIELA;80;2;original;122
+cliente_necesidad;Ford;VALVULAS;80;3;original;221
+cliente_necesidad;Ford;GUIAS DE VALVULAS;70;2;original;121
+cliente_necesidad;Jeep;EMPAQUETADURAS;530;1;original;221
+cliente_necesidad;Chevrolet;CADENA I;280;1;original;121
+cliente_necesidad;Honda;CADENA II;230;2;original;212
+cliente_necesidad;Suzuki;CADENA III;260;1;original;221
+cliente_necesidad;Jaguar;TEMPLADOR DE CADENA UNICO;180;1;original;122
+cliente_necesidad;Dodge;TEMPLADOR DE CADENA GRANDE ;210;3;original;111
+cliente_necesidad;Toyota;TEMPLADOR DE CADENA CHICO;200;3;original;121
+cliente_necesidad;Nissan;GUIA DE CADENA I;80;2;original;122
+cliente_necesidad;Dodge;GUIA DE CADENA II;90;3;original;112
+cliente_necesidad;Saab;GUIA DE CADENA III;100;3;original;112
+cliente_necesidad;Chevrolet;GUIA DE CADENA IV;110;1;original;111
+cliente_necesidad;Lexus;PIÑON DE LEVAS;110;2;original;212
+cliente_necesidad;Chevrolet;PIÑON DE CIGÜEÑAL;100;3;original;211
+cliente_necesidad;Volkswagen;PIÑON COMPESADOR I;120;2;original;122
+cliente_necesidad;Porsche;PIÑON COMPESADOR II;115;1;original;121
+cliente_necesidad;Ford;KITS DE DISTRIBUCION;430;2;original;221
+cliente_necesidad;Mazda;FAJA DE DISTRIBUCION;220;2;original;221
+cliente_necesidad;Audi;FAJA DE COMPENSADOR;200;2;original;112
+cliente_necesidad;Oldsmobile;FAJA BOMBA DE INYECCION;210;2;original;222
+cliente_necesidad;Oldsmobile;TEMPLADOR DE FAJA UNICO;180;1;original;112
+cliente_necesidad;Chevrolet;TEMPLADOR DE FAJA GRANDE;200;2;original;222
+cliente_necesidad;Kia;TEMPLADOR DE FAJA CHICO;140;1;original;112
+cliente_necesidad;Chevrolet;TEMPLADOR DE LA BOMBA DE INYECCION;200;2;original;112
+cliente_necesidad;Lexus;BOMBA DE AGUA;230;2;original;111
+cliente_necesidad;Volkswagen;TERMOSTATO;130;1;original;121
+cliente_necesidad;Cadillac;BOMBA DE ACEITE;280;1;original;112
+cliente_necesidad;Saab;ACCESORIO BOMBA DE ACEITE;200;2;original;112
+cliente_necesidad;Pontiac;BOMBA DE COMBUSTIBLE;310;3;original;122
+cliente_necesidad;Isuzu;BUJIAS/PRECALENTADORES;130;3;original;221
+cliente_necesidad;Lexus;PLATINO;110;3;original;211
+cliente_necesidad;Mitsubishi;CONDENSADOR;100;1;original;122
+cliente_necesidad;Chevrolet;BOBINAS;180;2;original;122
+cliente_necesidad;Porsche;CABLES DE BUJIAS;160;2;original;122
+cliente_necesidad;Honda;TAPA DE DISTRIBUIDOR;80;3;original;221
+cliente_necesidad;Acura;ROTOR DE DISTRIBUIDOR;100;1;original;222
+cliente_necesidad;Mazda;AVANCE DE DISTRIBUIDOR;90;3;original;212
+cliente_necesidad;GMC;THERMO SWITCH;70;3;original;222
+cliente_necesidad;Ford;SWITCH PRESION;80;1;original;111
+cliente_necesidad;Chevrolet;INYECTORES;90;2;original;211
+cliente_necesidad;Mazda;TOBERAS;100;2;original;112
+cliente_necesidad;Mercedes-Benz;CABEZAL;110;3;original;211
+cliente_necesidad;Saturn;BOMBA DE INYECCION;270;3;original;122
+cliente_necesidad;Ford;FILTRO AIRE;60;3;original;112
+cliente_necesidad;Kia;FILTRO ACEITE;60;2;original;211
+cliente_necesidad;Lexus;FILTRO COMBUSTIBLE;60;1;original;112
+cliente_necesidad;Volvo;KIT DE EMBRAGUE;270;3;original;111
+cliente_necesidad;Dodge;PLATO C/DISCO;630;1;original;211
+cliente_necesidad;Subaru;PLATO DE EMBRAGUE;330;3;original;122
+cliente_necesidad;Jeep;DISCO DE EMBRAGUE;330;2;original;211
+cliente_necesidad;GMC;COLLARIN;230;1;original;221
+cliente_necesidad;Ford;CAMISAS;150;3;original;111
+cliente_necesidad;Mercury;PISTONES;130;2;original;121
+cliente_necesidad;Ford;PINES DE PISTON;80;3;original;212
+cliente_necesidad;Ford;ANILLOS;180;3;original;122
+cliente_necesidad;Suzuki;METAL DE BIELA;80;1;original;211
+cliente_necesidad;Volkswagen;METAL DE BANCADA;100;2;original;221
+cliente_necesidad;GMC;METAL DE LEVAS;110;1;original;212
+cliente_necesidad;Porsche;METAL COMPENSADOR;70;1;original;112
+cliente_necesidad;Suzuki;SEPARADOR;80;1;original;112
+cliente_necesidad;Ford;BOCINAS DE BIELA;80;2;original;211
+cliente_necesidad;Chrysler;VALVULAS;80;1;original;111
+cliente_necesidad;Mazda;GUIAS DE VALVULAS;70;1;original;212
+cliente_necesidad;Chevrolet;EMPAQUETADURAS;530;1;original;222
+cliente_necesidad;Jeep;CADENA I;280;1;original;121
+cliente_necesidad;Mazda;CADENA II;230;1;original;121
+cliente_necesidad;Audi;CADENA III;260;3;original;112
+cliente_necesidad;Mercury;TEMPLADOR DE CADENA UNICO;180;1;original;122
+cliente_necesidad;Chevrolet;TEMPLADOR DE CADENA GRANDE ;210;1;original;212
+cliente_necesidad;Mercedes-Benz;TEMPLADOR DE CADENA CHICO;200;3;original;222
+cliente_necesidad;Chevrolet;GUIA DE CADENA I;80;1;original;222
+cliente_necesidad;Oldsmobile;GUIA DE CADENA II;90;1;original;122
+cliente_necesidad;Rolls-Royce;GUIA DE CADENA III;100;1;original;212
+cliente_necesidad;Audi;GUIA DE CADENA IV;110;2;original;212
+cliente_necesidad;Toyota;PIÑON DE LEVAS;110;2;original;121
+cliente_necesidad;Mazda;PIÑON DE CIGÜEÑAL;100;1;original;221
+cliente_necesidad;Dodge;PIÑON COMPESADOR I;120;1;original;111
+cliente_necesidad;BMW;PIÑON COMPESADOR II;115;3;original;222
+cliente_necesidad;Ford;KITS DE DISTRIBUCION;430;3;original;121
+cliente_necesidad;Land Rover;FAJA DE DISTRIBUCION;220;1;original;222
+cliente_necesidad;Chevrolet;FAJA DE COMPENSADOR;200;1;original;112
+cliente_necesidad;Lexus;FAJA BOMBA DE INYECCION;210;2;original;221
+cliente_necesidad;GMC;TEMPLADOR DE FAJA UNICO;180;1;original;212
+cliente_necesidad;Ford;TEMPLADOR DE FAJA GRANDE;200;2;original;211
+cliente_necesidad;Mercedes-Benz;TEMPLADOR DE FAJA CHICO;140;2;original;112
+cliente_necesidad;Dodge;TEMPLADOR DE LA BOMBA DE INYECCION;200;1;original;122
+cliente_necesidad;BMW;BOMBA DE AGUA;230;1;original;221
+cliente_necesidad;Volkswagen;TERMOSTATO;130;2;original;122
+cliente_necesidad;Buick;BOMBA DE ACEITE;280;3;original;111
+cliente_necesidad;Jaguar;ACCESORIO BOMBA DE ACEITE;200;2;original;221
+cliente_necesidad;Nissan;BOMBA DE COMBUSTIBLE;310;3;original;212
+cliente_necesidad;Oldsmobile;BUJIAS/PRECALENTADORES;130;3;original;222
+cliente_necesidad;Ford;PLATINO;110;2;original;111
+cliente_necesidad;Toyota;CONDENSADOR;100;1;original;221
+cliente_necesidad;Mitsubishi;BOBINAS;180;2;original;112
+cliente_necesidad;Saab;CABLES DE BUJIAS;160;3;original;121
+cliente_necesidad;Ford;TAPA DE DISTRIBUIDOR;80;2;original;212
+cliente_necesidad;Cadillac;ROTOR DE DISTRIBUIDOR;100;3;original;122
+cliente_necesidad;BMW;AVANCE DE DISTRIBUIDOR;90;1;original;221
+cliente_necesidad;Mercury;THERMO SWITCH;70;1;original;221
+cliente_necesidad;Porsche;SWITCH PRESION;80;1;original;111
+cliente_necesidad;Mitsubishi;INYECTORES;90;2;original;211
+cliente_necesidad;Mercury;TOBERAS;100;3;original;212
+cliente_necesidad;BMW;CABEZAL;110;1;original;211
+cliente_necesidad;Rolls-Royce;BOMBA DE INYECCION;270;1;original;111
+cliente_necesidad;BMW;FILTRO AIRE;60;3;original;222
+cliente_necesidad;Chevrolet;FILTRO ACEITE;60;1;original;111
+cliente_necesidad;Plymouth;FILTRO COMBUSTIBLE;60;2;original;211
+cliente_necesidad;Ford;KIT DE EMBRAGUE;270;3;original;211
+cliente_necesidad;Acura;PLATO C/DISCO;630;1;original;122
+cliente_necesidad;Mercedes-Benz;PLATO DE EMBRAGUE;330;2;original;111
+cliente_necesidad;Mercury;DISCO DE EMBRAGUE;330;1;original;221
+cliente_necesidad;Buick;COLLARIN;230;1;original;211
+cliente_necesidad;Toyota;CAMISAS;150;1;original;112
+cliente_necesidad;Hyundai;PISTONES;130;1;original;112
+cliente_necesidad;GMC;PINES DE PISTON;80;3;original;222
+jefe;Mazda;ANILLOS;180;2;original;222
+jefe;Ram;METAL DE BIELA;80;3;original;222
+jefe;Toyota;METAL DE BANCADA;100;3;original;121
+jefe;Isuzu;METAL DE LEVAS;110;1;original;112
+jefe;Audi;METAL COMPENSADOR;70;1;original;212
+jefe;Dodge;SEPARADOR;80;1;original;112
+jefe;Chevrolet;BOCINAS DE BIELA;80;2;original;221
+jefe;Oldsmobile;VALVULAS;80;1;original;121
+jefe;GMC;GUIAS DE VALVULAS;70;1;original;211
+jefe;Ford;EMPAQUETADURAS;530;2;original;122
+jefe;Nissan;CADENA I;280;2;original;211
+jefe;Nissan;CADENA II;230;3;original;122
+jefe;Ford;CADENA III;260;1;original;111
+jefe;Dodge;TEMPLADOR DE CADENA UNICO;180;2;original;122
+jefe;Nissan;TEMPLADOR DE CADENA GRANDE ;210;2;original;121
+jefe;Lexus;TEMPLADOR DE CADENA CHICO;200;1;original;222
+jefe;Nissan;GUIA DE CADENA I;80;1;original;122
+jefe;Chevrolet;GUIA DE CADENA II;90;1;original;112
+jefe;Lamborghini;GUIA DE CADENA III;100;3;original;112
+jefe;Lincoln;GUIA DE CADENA IV;110;1;original;222
+jefe;Ford;PIÑON DE LEVAS;110;2;original;211
+jefe;Dodge;PIÑON DE CIGÜEÑAL;100;1;original;211
+jefe;Ford;PIÑON COMPESADOR I;90;3;alternativo;122
+jefe;Mercedes-Benz;PIÑON COMPESADOR II;85;1;alternativo;112
+jefe;Ford;KITS DE DISTRIBUCION;400;2;alternativo;221
+jefe;Volvo;FAJA DE DISTRIBUCION;190;1;alternativo;211
+jefe;Pontiac;FAJA DE COMPENSADOR;170;2;alternativo;221
+jefe;Chrysler;FAJA BOMBA DE INYECCION;180;3;alternativo;121
+jefe;Lincoln;TEMPLADOR DE FAJA UNICO;150;2;alternativo;112
+jefe;Mercedes-Benz;TEMPLADOR DE FAJA GRANDE;170;1;alternativo;111
+jefe;Lincoln;TEMPLADOR DE FAJA CHICO;110;2;alternativo;212
+jefe;Mitsubishi;TEMPLADOR DE LA BOMBA DE INYECCION;170;1;alternativo;222
+jefe;Nissan;BOMBA DE AGUA;200;2;alternativo;111
+jefe;Lexus;TERMOSTATO;100;2;alternativo;111
+jefe;Chevrolet;BOMBA DE ACEITE;250;3;alternativo;111
+jefe;Volkswagen;ACCESORIO BOMBA DE ACEITE;170;1;alternativo;122
+jefe;Mazda;BOMBA DE COMBUSTIBLE;280;3;alternativo;111
+jefe;Mercury;BUJIAS/PRECALENTADORES;100;2;alternativo;221
+jefe;Jaguar;PLATINO;80;3;alternativo;122
+jefe;Isuzu;CONDENSADOR;70;3;alternativo;112
+jefe;Eagle;BOBINAS;150;2;alternativo;122
+jefe;Mitsubishi;CABLES DE BUJIAS;130;3;alternativo;112
+jefe;BMW;TAPA DE DISTRIBUIDOR;50;3;alternativo;211
+jefe;Ford;ROTOR DE DISTRIBUIDOR;70;2;alternativo;211
+jefe;Volkswagen;AVANCE DE DISTRIBUIDOR;60;1;alternativo;221
+jefe;Geo;THERMO SWITCH;40;3;alternativo;112
+jefe;Mitsubishi;SWITCH PRESION;50;3;alternativo;121
+jefe;Mercury;INYECTORES;60;3;alternativo;111
+jefe;Infiniti;TOBERAS;70;3;alternativo;221
+jefe;Chevrolet;CABEZAL;80;1;alternativo;122
+jefe;Mazda;BOMBA DE INYECCION;240;2;alternativo;122
+jefe;Buick;FILTRO AIRE;30;3;alternativo;111
+jefe;Lexus;FILTRO ACEITE;30;2;alternativo;222
+jefe;Buick;FILTRO COMBUSTIBLE;30;3;alternativo;121
+jefe;Audi;KIT DE EMBRAGUE;240;3;alternativo;111
+jefe;Jaguar;PLATO C/DISCO;600;2;alternativo;221
+jefe;Subaru;PLATO DE EMBRAGUE;300;3;alternativo;111
+jefe;Ford;DISCO DE EMBRAGUE;300;2;alternativo;222
+jefe;Ford;COLLARIN;200;1;alternativo;221
+jefe;Ford;CAMISAS;120;1;alternativo;221
+jefe;Honda;PISTONES;100;1;alternativo;222
+jefe;Chevrolet;PINES DE PISTON;50;3;alternativo;222
+jefe;Infiniti;ANILLOS;150;3;alternativo;221
+jefe;Ferrari;METAL DE BIELA;50;1;alternativo;222
+jefe;Lincoln;METAL DE BANCADA;70;2;alternativo;222
+jefe;Saab;METAL DE LEVAS;80;3;alternativo;112
+jefe;Pontiac;METAL COMPENSADOR;40;1;alternativo;222
+jefe;Land Rover;SEPARADOR;50;2;alternativo;122
+jefe;Chevrolet;BOCINAS DE BIELA;50;3;alternativo;111
+jefe;Volvo;VALVULAS;50;2;alternativo;111
+jefe;Eagle;GUIAS DE VALVULAS;40;2;alternativo;122
+jefe;Mercedes-Benz;EMPAQUETADURAS;500;1;alternativo;111
+jefe;Volkswagen;CADENA I;250;3;alternativo;111
+jefe;Lincoln;CADENA II;200;3;alternativo;111
+jefe;Jeep;CADENA III;230;2;alternativo;211
+jefe;Ford;TEMPLADOR DE CADENA UNICO;150;1;alternativo;222
+jefe;Chrysler;TEMPLADOR DE CADENA GRANDE ;180;1;alternativo;122
+jefe;Hyundai;TEMPLADOR DE CADENA CHICO;170;1;alternativo;111
+jefe;GMC;GUIA DE CADENA I;50;3;alternativo;221
+jefe;Mercury;GUIA DE CADENA II;60;3;alternativo;121
+jefe;Mitsubishi;GUIA DE CADENA III;70;2;alternativo;121
+jefe;Nissan;GUIA DE CADENA IV;80;2;alternativo;222
+jefe;Mitsubishi;PIÑON DE LEVAS;80;2;alternativo;222
+jefe;Suzuki;PIÑON DE CIGÜEÑAL;70;2;alternativo;111
+jefe;GMC;PIÑON COMPESADOR I;90;3;alternativo;111
+jefe;Panoz;PIÑON COMPESADOR II;85;1;alternativo;212
+jefe;Toyota;KITS DE DISTRIBUCION;400;2;alternativo;111
+jefe;Kia;FAJA DE DISTRIBUCION;190;1;alternativo;121
+jefe;Mercury;FAJA DE COMPENSADOR;170;3;alternativo;112
+jefe;Land Rover;FAJA BOMBA DE INYECCION;180;3;alternativo;112
+jefe;Kia;TEMPLADOR DE FAJA UNICO;150;2;alternativo;212
+jefe;Jeep;TEMPLADOR DE FAJA GRANDE;170;1;alternativo;212
+jefe;Mazda;TEMPLADOR DE FAJA CHICO;110;3;alternativo;112
+jefe;Subaru;TEMPLADOR DE LA BOMBA DE INYECCION;170;3;alternativo;212
+jefe;Hyundai;BOMBA DE AGUA;200;2;alternativo;111
+jefe;Toyota;TERMOSTATO;100;1;alternativo;121
+jefe;Nissan;BOMBA DE ACEITE;250;2;alternativo;212
+jefe;Honda;ACCESORIO BOMBA DE ACEITE;170;1;alternativo;112
+jefe;Mitsubishi;BOMBA DE COMBUSTIBLE;280;1;alternativo;112
+jefe;Dodge;BUJIAS/PRECALENTADORES;100;2;alternativo;122
+jefe;Mercury;PLATINO;80;2;alternativo;122
+jefe;Pontiac;CONDENSADOR;70;2;alternativo;212
+jefe;Cadillac;BOBINAS;150;2;alternativo;212
+jefe;Ford;CABLES DE BUJIAS;130;3;alternativo;211
+jefe;Pontiac;TAPA DE DISTRIBUIDOR;50;6;alternativo;112
+jefe;Honda;ROTOR DE DISTRIBUIDOR;70;7;alternativo;122
+jefe;Infiniti;AVANCE DE DISTRIBUIDOR;60;2;alternativo;112
+jefe;Maserati;THERMO SWITCH;40;8;alternativo;112
+jefe;Subaru;SWITCH PRESION;50;8;alternativo;211
+jefe;Mercury;INYECTORES;60;7;alternativo;212
+jefe;Toyota;TOBERAS;70;8;alternativo;222
+jefe;Ford;CABEZAL;80;8;alternativo;221
+jefe;Suzuki;BOMBA DE INYECCION;240;4;alternativo;221
+jefe;Buick;FILTRO AIRE;60;2;original;112
+jefe;Mercury;FILTRO ACEITE;60;6;original;212
+jefe;Chevrolet;FILTRO COMBUSTIBLE;60;4;original;112
+jefe;Pontiac;KIT DE EMBRAGUE;270;7;original;212
+jefe;Nissan;PLATO C/DISCO;630;6;original;122
+jefe;Pontiac;PLATO DE EMBRAGUE;330;8;original;121
+jefe;Toyota;DISCO DE EMBRAGUE;330;6;original;112
+jefe;Acura;COLLARIN;230;8;original;112
+jefe;Ford;CAMISAS;150;3;original;112
+jefe;Subaru;PISTONES;130;4;original;121
+jefe;Chevrolet;PINES DE PISTON;80;4;original;222
+jefe;Chrysler;ANILLOS;180;3;original;111
+jefe;Volvo;METAL DE BIELA;80;7;original;111
+jefe;Pontiac;METAL DE BANCADA;100;2;original;121
+jefe;Fillmore;METAL DE LEVAS;110;4;original;112
+jefe;Lincoln;METAL COMPENSADOR;70;7;original;112
+jefe;Chevrolet;SEPARADOR;80;5;original;221
+jefe;Austin;BOCINAS DE BIELA;80;2;original;212
+jefe;Mercury;VALVULAS;80;7;original;111
+jefe;Chevrolet;GUIAS DE VALVULAS;70;7;original;122
+jefe;Lexus;EMPAQUETADURAS;530;8;original;222
+jefe;Chevrolet;CADENA I;280;5;original;111
+jefe;BMW;CADENA II;230;2;original;212
+jefe;Plymouth;CADENA III;260;5;original;212
+jefe;BMW;TEMPLADOR DE CADENA UNICO;180;5;original;121
+jefe;Mercedes-Benz;TEMPLADOR DE CADENA GRANDE ;210;2;original;221
+jefe;BMW;TEMPLADOR DE CADENA CHICO;200;3;original;121
+jefe;Volkswagen;GUIA DE CADENA I;80;7;original;121
+jefe;Volvo;GUIA DE CADENA II;90;7;original;122
+jefe;Mercedes-Benz;GUIA DE CADENA III;100;7;original;212
+jefe;Nissan;GUIA DE CADENA IV;110;7;original;111
+jefe;Toyota;PIÑON DE LEVAS;110;2;original;211
+jefe;Dodge;PIÑON DE CIGÜEÑAL;100;3;original;221
+jefe;Chevrolet;PIÑON COMPESADOR I;120;7;original;121
+jefe;BMW;PIÑON COMPESADOR II;115;2;original;212
+jefe;Chevrolet;KITS DE DISTRIBUCION;430;5;original;211
+jefe;Mercury;FAJA DE DISTRIBUCION;220;8;original;112
+jefe;Ferrari;FAJA DE COMPENSADOR;200;7;original;222
+jefe;Lexus;FAJA BOMBA DE INYECCION;210;3;original;112
+jefe;Toyota;TEMPLADOR DE FAJA UNICO;180;2;original;111
+jefe;Audi;TEMPLADOR DE FAJA GRANDE;200;3;original;122
+jefe;GMC;TEMPLADOR DE FAJA CHICO;140;3;original;211
+jefe;GMC;TEMPLADOR DE LA BOMBA DE INYECCION;200;4;original;221
+jefe;Plymouth;BOMBA DE AGUA;230;2;original;222
+jefe;Cadillac;TERMOSTATO;130;6;original;211
+jefe;Suzuki;BOMBA DE ACEITE;280;4;original;112
+jefe;GMC;ACCESORIO BOMBA DE ACEITE;200;3;original;121
+jefe;Porsche;BOMBA DE COMBUSTIBLE;310;8;original;222
+jefe;Daewoo;BUJIAS/PRECALENTADORES;130;3;original;121
+jefe;GMC;PLATINO;110;2;original;121
+jefe;GMC;CONDENSADOR;100;6;original;212
+jefe;Toyota;BOBINAS;180;3;original;111
+jefe;Lincoln;CABLES DE BUJIAS;160;7;original;211
+jefe;BMW;TAPA DE DISTRIBUIDOR;80;5;original;211
+jefe;Lincoln;ROTOR DE DISTRIBUIDOR;100;6;original;222
+jefe;Audi;AVANCE DE DISTRIBUIDOR;90;7;original;121
+jefe;Mitsubishi;THERMO SWITCH;70;4;original;111
+jefe;Volvo;SWITCH PRESION;80;3;original;212
+jefe;Mercedes-Benz;INYECTORES;90;7;original;122
+jefe;Isuzu;TOBERAS;100;7;original;222
+jefe;Honda;CABEZAL;110;3;original;222
+jefe;Mercury;BOMBA DE INYECCION;270;8;original;222
+jefe;Cadillac;FILTRO AIRE;60;7;original;111
+jefe;Acura;FILTRO ACEITE;60;4;original;212
+jefe;Land Rover;FILTRO COMBUSTIBLE;60;5;original;112
+jefe;Volkswagen;KIT DE EMBRAGUE;270;2;original;211
+jefe;Chevrolet;PLATO C/DISCO;630;2;original;122
+jefe;Ford;PLATO DE EMBRAGUE;330;5;original;222
+jefe;GMC;DISCO DE EMBRAGUE;330;5;original;112
+jefe;Mazda;COLLARIN;230;4;original;122
+jefe;Mazda;CAMISAS;150;8;original;221
+jefe;Honda;PISTONES;130;3;original;212
+jefe;Saturn;PINES DE PISTON;80;6;original;121
+jefe;Buick;ANILLOS;180;2;original;111
+jefe;Toyota;METAL DE BIELA;80;5;original;122
+jefe;Dodge;METAL DE BANCADA;100;3;original;212
+jefe;Mercedes-Benz;METAL DE LEVAS;110;5;original;222
+jefe;Honda;METAL COMPENSADOR;70;4;original;121
